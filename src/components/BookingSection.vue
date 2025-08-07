@@ -134,7 +134,7 @@ import axios from 'axios'
 
 
 // ✅ Adresse de ton backend — tu peux utiliser une variable d'environnement si tu préfères
-const API_URL = 'http://localhost:3000'
+const API_URL = 'https://black-cup.onrender.com'
 
 const bookingData = ref({
   name: '',

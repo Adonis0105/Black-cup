@@ -1,0 +1,49 @@
+{
+  "bookings": [
+    {
+      "name": "ro",
+      "phone": "98147474",
+      "service": "pack-simple",
+      "date": "2025-08-06",
+      "time": "14:00",
+      "notes": "",
+      "createdAt": "2025-08-05T13:33:41.923Z"
+    },
+    {
+      "name": "Nicodème",
+      "phone": "92336655",
+      "service": "pack-simple",
+      "date": "2025-08-07",
+      "time": "17:00",
+      "notes": "",
+      "createdAt": "2025-08-05T13:58:34.628Z"
+    },
+    {
+      "name": "toi",
+      "phone": "98653296",
+      "service": "pack-retouche",
+      "date": "2025-08-13",
+      "time": "16:00",
+      "notes": "",
+      "createdAt": "2025-08-05T19:05:27.311Z"
+    },
+    {
+      "name": "Adonis",
+      "phone": "+22890000000",
+      "service": "Coupe classique",
+      "date": "2025-08-10",
+      "time": "14:00",
+      "notes": "Premier test via Firestore",
+      "createdAt": "2025-08-05T19:23:05.069Z"
+    },
+    {
+      "name": "Adonis",
+      "phone": "+22890000000",
+      "service": "Coupe classique",
+      "date": "2025-08-15",
+      "time": "14:00",
+      "notes": "Premier test via Firestore",
+      "createdAt": "2025-08-05T19:58:15.651Z"
+    }
+  ]
+}
